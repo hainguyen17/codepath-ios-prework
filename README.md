@@ -15,7 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/019c26f482be4b729e5e18e09bfc1159?sid=85dfb6c4-fe30-41e9-85ce-2cd188b3213b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/019c26f482be4b729e5e18e09bfc1159">
+      <p>Re: Library | Loom - 9 January 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/019c26f482be4b729e5e18e09bfc1159">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/019c26f482be4b729e5e18e09bfc1159-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 - Example App #1: Notes (IOS)
