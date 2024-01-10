@@ -14,7 +14,6 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
 <div>
     <a href="https://www.loom.com/share/019c26f482be4b729e5e18e09bfc1159">
       <p>Re: Library | Loom - 9 January 2024 - Watch Video</p>
