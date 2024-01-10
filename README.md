@@ -18,7 +18,22 @@ The following **required** functionality is completed:
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/019c26f482be4b729e5e18e09bfc1159?sid=85dfb6c4-fe30-41e9-85ce-2cd188b3213b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
+- Example App #1: Notes (IOS)
+    - Easy formatting
+    - Cloud Sync.
+    
+- Example App #2: Google Calendar 
+    - Allow  multiple viewing options
+    - Clear action buttons: Add/Modify events
+    
+- Example App #3: Google Maps 
+    - Swipe up to explore the selected area
+    - Allow  pins and labellings (favorite locations, travel plan, etc.)
+    - Accessibility features (such as speak aloud, zoom, different map layouts)
 
+APP IDEAS
+- I would like to redesign the shopping experience on Amazon's mobile app (specifically focusing on improving the checkout process). While Amazon is a popular retail platform used by people every day, the current checkout process is somewhat lengthy, and the information hierarchy is densely packed into a single screen. Additionally, there are often multiple action buttons on a single screen, which can be confusing for users who are new to the app. I want to try to reconsider the app flow and the components of the existing UI to create a more seamless, worry-free and goal-targeted user experience.
+ 
 ## Notes
 
 Describe any challenges encountered while building the app.
